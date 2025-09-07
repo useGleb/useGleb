@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Senior Frontend Developer, Team Lead • JavaScript, Next.js, TypeScript, UI/UX<br>Software engineer with over 7 years of experience and strong fundamentals in front-end technologies. Passionate problem solver and lifelong learner, with love for straightforward UX and beautiful UI.<br><br>Result-oriented. I believe code is just an instrument — a means to solve real problems. My focus is always on delivering results and creating measurable business value.<br><br>Well-versed in JavaScript and TypeScript, with professional experience working with Next.js 12+ and React.js.<br><br>Now I’m interested on building my brand, expanding my network of clients, and making a real difference.<br><br>Love straightforward UX and beautiful UI. It's not an issue for me to sketch out ideas in Figma to pitch to product managers and designers.<br><br>Also, I love to make projects done, inspire teams, beautiful and user-friendly interfaces, traveling, and cooking.
 
-<!--
-**useGleb/useGleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:it.gleb.kolosov@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=useGleb&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=useGleb&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=useGleb&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
