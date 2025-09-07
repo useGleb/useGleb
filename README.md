@@ -7,7 +7,3 @@ Senior Frontend Developer, Team Lead • JavaScript, Next.js, TypeScript, UI/UX<
 
 # 💻 Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
----
-[![](https://visitcount.itsvg.in/api?id=useGleb&icon=0&color=0)](https://visitcount.itsvg.in)
-
